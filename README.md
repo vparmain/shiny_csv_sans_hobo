@@ -1,5 +1,5 @@
 # shiny_csv_sans_hobo
-transformtion csv Tadarida pour analyse audio
+transformation csv Tadarida pour analyse audio
 a l'attention des membres du reseau mammiferes ONF
 
 manipulation a effectuer sur le .xlsx:
